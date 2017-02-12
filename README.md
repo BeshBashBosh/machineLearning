@@ -17,7 +17,7 @@ readmeStatus = False
 if readmeStatus == True:
     print(About time too!)
 else:
-    print(WHAT ARE YOU WAITING FOR?!?)
+    print("WHAT ARE YOU WAITING FOR?!?")
     # ...probably writing...
 ```
 
